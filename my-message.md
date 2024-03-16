@@ -1,9 +1,10 @@
 # My message to the Marble Collective 
 I have been experimenting with the backend and bug-hunting for quite some time now. I never wanted to cause any harm, just some tomfoolery :)
 
-Now that I'm banned, I have something to ask the  the collective: 
+Now that I'm banned, I don't think I'll be quitting the game, I'll be playing unranked (no lbs) singleplayer tho.
 
-I have been stockpiling exploits and bugs for months, not all caused by the buggy backend, some are "me pushing the boundaries of intended behaviour", most of which can't be fixed without breaking existing applications (such as VillieOlof's leaderboard).
+I have been stockpiling exploits and bugs for months, not all caused by the buggy backend, some are "me pushing the boundaries of intended behaviour", most of which can't be fixed without breaking existing applications (such as VillieOlof's leaderboard). Some of which may allow for evasion? I don't know, I have not tried yet.
+
 ~~I may publish them if I'm not unbanned , even if some may have the same impact as EternalBlue did to Windows PCs.~~
 
 ~~I made a private server for "trusted people". To join. DM me.~~
