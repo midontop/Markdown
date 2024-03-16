@@ -1,4 +1,4 @@
-# My message to the Marble Collective
+# My message to the Marble Collective 
 I have been experimenting with the backend and bug-hunting for quite some time now. I never wanted to cause any harm, just some tomfoolery :)
 
 Now that I'm banned, I have something to ask the  the collective: 
@@ -8,6 +8,9 @@ I may publish them if I'm not unbanned , even if some may have the same impact a
 
 I made a private server for "trusted people". To join. DM me.
 
-Contact:
+## Read this
+I'm no longer going to leak. I've learnt from my errors and I won't do them again. I'm not going to leak :)
+
+## Contact:
 - X: @nonumbers046 (I don't check this often)
 - Discord: starnumber_
